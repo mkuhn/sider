@@ -4,5 +4,5 @@ This repository contains list of filters that can be used as errata for the SIDE
 
 These files are:
 
-`adr_concepts_to_exclude` – a list of UMLS ids (and concept names) that most likely do not refer to side effects
-`meddra_freq_to_exclude.tsv` – a list of lines from meddra_freq.tsv.gz that should be excluded from analysis
+* `adr_concepts_to_exclude` – a list of UMLS ids (and concept names) that most likely do not refer to side effects
+* `meddra_freq_to_exclude.tsv` – a list of lines from meddra_freq.tsv.gz that should be excluded from analysis
