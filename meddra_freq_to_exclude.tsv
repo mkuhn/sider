@@ -1,1 +1,4 @@
-# no bugs have been reported yet for SIDER 4.1
+# False positives extracted from: "The population was 18 to 77 years of age; ... and had either erosive reflux esophagitis (44%) or GERD (56%)."
+CID100004594	CID009579578	C0014869		44%	0.44	0.44	LLT	C0014869	Reflux esophagitis
+CID100004594	CID009579578	C0017168		56%	0.56	0.56	LLT	C0017168	Gastrooesophageal reflux disease
+CID100004594	CID009579578	C0017168		56%	0.56	0.56	PT	C0017168	Gastrooesophageal reflux disease
